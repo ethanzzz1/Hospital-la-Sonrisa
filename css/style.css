@@ -253,35 +253,6 @@ button {
     color: #00ffff;
 }
 
-.banner_section {
-    width: 100%;
-    float: left;
-    padding-bottom: 105px;
-}
-
-.images_1 {
-    width: 80%;
-    float: right;
-    padding-top: 50px;
-}
-
-.banner_taital {
-    width: 100%;
-    float: left;
-    font-size: 60px;
-    color: #15e4d0;
-    font-weight: bold;
-    line-height: 60px;
-    padding-top: 120px;
-}
-
-.banner_text {
-    width: 100%;
-    float: left;
-    font-size: 16px;
-    margin: 0px;
-    color: #252525;
-}
 
 .btn_main {
     width: 100%;
