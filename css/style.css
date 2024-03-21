@@ -808,16 +808,16 @@ button {
 
 #my_slider a.carousel-control-next {
     position: absolute;
-    left: 490px;
-    top: 70%;
+    left: 490px; /* Cambia la posición izquierda para alinear horizontalmente */
+    top: 90%;
     background-color: #19e9d9;
     color: #ffffff;
 }
 
 #my_slider a.carousel-control-prev {
     position: absolute;
-    left: 490px;
-    top: 84%;
+    left: 420px; /* Cambia la posición izquierda para alinear horizontalmente */
+    top: 90%; /* Ajusta la posición superior si es necesario */
     background-color: #252525;
 }
 
